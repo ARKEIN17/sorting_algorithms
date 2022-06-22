@@ -1,5 +1,4 @@
 #include "sort.h"
-
 /**
  * selection_sort - funtion thet sorts an array of integers in
  * ascending order using the Selection sort algorithm
@@ -7,7 +6,6 @@
  * @size: Array's size.
  * Return: void.
  */
-
 void selection_sort(int *array, size_t size)
 {
 	size_t i, j, min;
